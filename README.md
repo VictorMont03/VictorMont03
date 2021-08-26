@@ -24,6 +24,9 @@
 <h3 align="left">Mobile App Development:</h3>
 <p align="left"> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victormont03&show_icons=true&locale=en&layout=compact" alt="victormont03" /></p>
+
+
 <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victormont03&show_icons=true&locale=en" alt="victormont03" /></p>
 </div>
