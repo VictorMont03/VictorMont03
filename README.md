@@ -32,6 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victormont03&show_icons=true&locale=en&layout=compact" alt="victormont03" /></p>
 
-<div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victormont03&show_icons=true&locale=en" alt="victormont03" /></p>
-</div>
+
