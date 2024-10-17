@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Monteiro</h1>
 <h3 align="center">A passionate fullstack developer from Brasil.</h3>
 
-- 🌱 I’m currently learning **Serverless Applications and DevOps using AWS**
+- 🌱 I’m currently focused on **Serverless Applications, GoLang and DevOps using AWS**
 
 - 📫 How to reach me **victormonteir2@gmail.com**
 
